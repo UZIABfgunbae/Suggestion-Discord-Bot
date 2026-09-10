@@ -1,11 +1,4 @@
----
-tags:
-  - projekt/discord-bot
-  - python
-  - raspberry-pi
-erstellt: 2026-09-10
-status: einsatzbereit
----
+# Made with Claude Code
 
 # Discord Suggestion Bot
 
