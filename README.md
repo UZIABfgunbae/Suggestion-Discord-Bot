@@ -106,7 +106,7 @@ This grants: View Channels, Send Messages, Embed Links, Read Message History, Ma
 ### 3. Install
 
 ```bash
-git clone https://github.com/<you>/discord-bot.git
+git clone https://github.com/UZIABfgunbae/Suggestion-Discord-Bot
 cd discord-bot
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
